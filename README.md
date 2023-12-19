@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
+<img src="![Screenshot 2023-12-19 094530](https://github.com/abhiyendru01/weatherApp-using-reactjs/assets/118946861/97741d1f-c892-46ca-a008-ed5d7144c94b)">
 </p>
 
 <p align="center">
